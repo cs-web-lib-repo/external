@@ -1,0 +1,32 @@
+{
+  "ec": {
+    "argument": "잘못된 접근입니다.",
+    "not_exist": "존재하지 않습니다.",
+    "not_have_auth": "권한이 없습니다.",
+    "exist": "데이터가 있습니다.",
+    "file_upload": "파일 업로드를 실패했습니다.",
+    "file_limit_size": "허용된 파일 크기를 초과했습니다.",
+    "file_limit_storage": "저장소 용량이 부족합니다.",
+    "file_preview": "파일 처리에 실패했습니다.",
+    "file_clear": "",
+    "space_state_readonly": "읽기 전용 스페이스입니다.",
+    "space_state_stop": "정지된 스페이스입니다.",
+    "admin_account_empty": "최소 1명의 관리자가 있어야 합니다.",
+    "chat_create_room_account_count": "자기자신과 대화 할 수 없습니다.",
+    "chat_not_room_member": "가입이 안된 채팅방입니다.",
+    "chat_not_exist_room": "존재하지 않는 채팅방입니다.",
+    "space_already_join": "가입되어 있는 스페이스입니다.",
+    "space_limit_join_member_count": "가입 가능 사용자 수를 초과하였습니다.",
+    "space_limit_free_space_join_count": "가입 가능한 무료 스페이스를 초과하였습니다.",
+    "internal": "내부 처리 중 문제가 발생했습니다.",
+    "system": "시스템에 문제가 발생했습니다."
+  },
+  "swal": {
+    "del": "삭제하시겠습니까?",
+    "force": "강제 적용하시겠습니까?",
+    "force ex": "작업자가 지정되어있습니다.",
+    "force comp": "작업이 완료 처리됩니다.",
+    "confirm": "적용",
+    "cancel": "취소"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "space": {
+    "list": "스페이스 목록",
+    "readonly": "읽기 전용",
+    "stop": "사용 중지",
+    "create": "스페이스 생성",
+    "remaining": "생성 가능",
+    "name": "스페이스 이름",
+    "note": "스페이스 설명",
+    "create btn": "생성",
+    "bookmark": "즐겨찾기"
+  },
+  "join": {
+    "stop ex": "관리자에 의해 사용 중지 되었습니다.",
+    "wait ex": "가입 승인 대기 중입니다.",
+    "reject ex": "관리자에 의해 가입이 반려되었습니다.",
+    "leave ex": "탈퇴한 스페이스 입니다.",
+    "remove ex": "관리자에 의해 탈퇴되었습니다.",
+    "not_exist ex": "삭제된 스페이스 입니다.",
+    "cancel": "가입요청 취소",
+    "leave": "탈퇴",
+    "ok": "확인"
+  },
+  "logout": " 로그 아웃",
+  "card": " 카드",
+  "todo": "할일",
+  "note": " 노트",
+  "message": "쪽지",
+  "org": "조직",
+  "main menu tip": "메인 메뉴",
+  "file uploader": " 파일 업로더",
+  "please node": "카드를 선택하여 주세요.",
+  "upload zone": "파일 업로드",
+  "lng": "한국어",
+  "space setting": "스페이스 설정",
+  "profile setting": "프로필 설정",
+  "dz": {
+    "clear": "업로드 정리",
+    "dictFileTooBig": "최대 파일 사이즈: 300MiB",
+    "dictCancelUpload": "취소",
+    "dictCancelUploadConfirmation": "파일 업로드를 취소 하시겠습니까?"
+  },
+  "account": {
+    "chat": "1 : 1 채팅",
+    "profile": "사용자 정보",
+    "profile edit": "정보 수정",
+    "name": "이름",
+    "intro": "소개"
+  },
+  "sort": {
+    "title asc": "제목 오름차순",
+    "title desc": "제목 내림차순",
+    "utime asc": "생성 시각 오름차순",
+    "utime desc": "생성 시각 내림차순"
+  },
+  "common": {
+    "capture": "캡처"
+  },
+  "editor": {
+    "save": "저장",
+    "cancel": "취소"
+  }
+}

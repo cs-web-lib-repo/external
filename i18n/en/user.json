@@ -1,0 +1,42 @@
+{
+  "todo": {
+    "my todo": "My Todo"
+  },
+  "confirm": {
+    "confirm": "Confirm",
+    "ex": "get feedback",
+    "confirm item": "Confirm Details",
+    "confirm add": " Add",
+    "confirm create": "Confirm Create",
+    "confirm comment": "Confirm comment",
+    "confirm decision": "Confirm Decision",
+    "remove": "Remove",
+    "lock": "Lock",
+    "unlock": "Unlock",
+    "cancel": "Cancel",
+    "lock_alert": "Confirm is locked",
+    "read": "Read",
+    "send": "Send",
+    "creator": "Creator",
+    "title": "Title",
+    "comment": "Comment",
+    "info": "Information",
+    "card": "Card",
+    "progress": "Progress",
+    "decision": "Decision",
+    "approval": "Approval",
+    "reject": "Reject",
+    "sent": "Sent",
+    "inbox": "Inbox",
+    "view card": "View card"
+  },
+  "my card": "My Card",
+  "history": "History",
+  "list": {
+    "select folder": ""
+  },
+  "title": "title",
+  "todo flow": "Todo Flow",
+  "sender": "Sender",
+  "worker": "Worker"
+}

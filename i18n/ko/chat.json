@@ -1,0 +1,12 @@
+{
+  "member": {
+    "choose a user": "사용자 선택",
+    "search": "검색",
+    "create": "생성"
+  },
+  "chat": {
+    "chat": "채팅",
+    "send": "보내기",
+    "add message": "메시지"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "tree": {
+    "info mode": " 모드 선택 및 옵션을 선택하세요.",
+    "todo mode": " 할일 목록.",
+    "icon set": " 아이콘 보기 설정.",
+    "search": " 검색.",
+    "no data": "접근 가능한 카드들이 없습니다.",
+    "drop": {
+      "create": "생성",
+      "title": "제목 변경",
+      "state": {
+        "name": " 상태",
+        "ready": "대기",
+        "progress": "진행",
+        "stop": " 중지",
+        "cancel": " 취소",
+        "complete": " 완료"
+      },
+      "priority": {
+        "name": "우선순위",
+        "urgent": "긴급",
+        "high": "높음",
+        "medium": "중간",
+        "low": "낮음",
+        "lowest": "매우 낮음"
+      },
+      "hide": "숨기기",
+      "show": "보이기",
+      "bookmark": "즐겨찾기",
+      "move": "이동",
+      "under": "일괄 처리",
+      "attribute batch": "속성 일괄 처리",
+      "move batch": "이동 일괄 처리",
+      "delete": "삭제",
+      "remove": "완전 삭제",
+      "recover": "복구",
+      "lock": "잠금",
+      "unlock": "잠금 해제"
+    },
+    "tip": {
+      "hide": "보기 모드 전환",
+      "bookmark": "즐겨찾기",
+      "sorting": "정렬",
+      "icon setting": "아이콘 정렬",
+      "search": "카드 검색",
+      "reload": "리로드"
+    }
+  },
+  "tree op": {
+    "not match": "일치하는 검색 결과가 없습니다."
+  },
+  "org_tree": {
+    "other users": "부서 이외 사용자"
+  }
+}

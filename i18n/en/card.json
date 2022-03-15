@@ -1,0 +1,180 @@
+{
+  "info": {
+    "info": "Information",
+    "card title": "Title:",
+    "card num": "Num:",
+    "link copy": "Link Copy:",
+    "state": "State:",
+    "creator": "Creator:",
+    "created": "Created:",
+    "cost": "Cost:",
+    "under cost": "Sub Cost:",
+    "owner": "Owner:",
+    "worker": "Worker:",
+    "viewer": "Viewer:",
+    "progress": "Progress:",
+    "move": "Move",
+    "copy": "Copy",
+    "link": "Link",
+    "hide": "Hide",
+    "show": "Show",
+    "delete": "Delete",
+    "remove": "Remove",
+    "recover": "Recover",
+    "more": "More",
+    "date": {
+      "date": "Date",
+      "date_label": "Date:",
+      "start": "Start:",
+      "end": "End:",
+      "allday": "All Day",
+      "save": "Save"
+    }
+  },
+  "create": {
+    "create": " Create",
+    "apply": " Apply",
+    "ok": " OK",
+    "card create": "Create a card",
+    "card title": "Card title"
+  },
+  "contents": {
+    "contents": "Contents",
+    "edit": " Edit",
+    "delete": " Delete",
+    "add note": "Add Note",
+    "add file": "Add File",
+    "note": "Note",
+    "file": "File",
+    "clipboard": "Clipboard"
+  },
+  "card": {
+    "card": "Card list",
+    "filter": "Filter : ",
+    "auth filter": {
+      "auth": "Auth filter",
+      "owner": "<i class='fas fa-user text-danger fa-fw'></i>Owner",
+      "viewer": "<i class='fas fa-user text-primary-o fa-fw'></i>Viewer"
+    },
+    "status filter": {
+      "status": "State filter",
+      "ready": "<i class='far fa-circle text-dark fa-fw'></i>Wait",
+      "progress": "<i class='far fa-play-circle text-normal fa-fw'></i>Progress",
+      "stop": "<i class='far fa-pause-circle text-warning fa-fw'></i>Stop",
+      "cancel": "<i class='far fa-stop-circle text-danger fa-fw'></i>Cancel",
+      "complete": "<i class='far fa-check-circle text-success fa-fw'></i>Complete"
+    },
+    "filter file": "filter file",
+    "filter contents": "Card file",
+    "filter timeline": "Timeline file",
+    "title": "title",
+    "hidden": "hidden",
+    "deleted": "deleted",
+    "normal": "normal",
+    "list filter": {
+      "owner": "<i class='fas fa-user text-danger fa-fw'></i>Owner",
+      "status": "<i class='far fa-play-circle fa-fw'></i>Status",
+      "state": "<i class='fas fa-eye fa-fw'></i>State",
+      "progress": "<i class='fas fa-percent fa-fw'></i>Progress",
+      "priority": "<i class='fas fa-angle-double-up text-danger fa-fw'></i>Priority",
+      "lock": "<i class='fas fa-lock fa-fw'></i>Lock",
+      "schedule": "<i class='far fa-clock fa-fw'></i>Schedule",
+      "cost": "<i class='fas fa-hourglass fa-fw'></i>Cost",
+      "sub cost": "<i class='fas fa-hourglass-end fa-fw'></i>Sub Cost",
+      "file size": "<i class='fas fa-file fa-fw'></i>File Size",
+      "sub file": "<i class='fas fa-file-download fa-fw'></i>Sub File Size"
+    }
+  },
+  "reply": {
+    "comments": " Comments",
+    "reply": " Reply",
+    "cancel": " Cancel",
+    "add comment": "Add Comment",
+    "add reply": "Add reply"
+  },
+  "file": {
+    "file": "File list",
+    "filter": "Filter : ",
+    "filter filte": "File filter",
+    "name": "Name",
+    "byte": "Byte",
+    "time": "Time"
+  },
+  "calendar": {
+    "cal": "Calendar",
+    "today": "Today",
+    "jump": "Card"
+  },
+  "log": {
+    "log": "Log",
+    "cost": "Cost",
+    "more": "More"
+  },
+  "move": {
+    "card move": "Please select a card",
+    "move": "Move"
+  },
+  "auth": {
+    "select owner": "Select Owner",
+    "select worker": "Select Worker",
+    "select viewer": "Select Viewer",
+    "comment": "Comment",
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "complete": "Complete"
+  },
+  "cost": {
+    "cost time": "Append Cost List",
+    "cost list": "Cost List",
+    "cost under": "List of Card Sub-Cost",
+    "comment": "comment",
+    "hours": "hours",
+    "minutes": "minutes"
+  },
+  "worker": {
+    "worker": "Worker",
+    "ex": "Please select a todo worker"
+  },
+  "link": {
+    "link": "Link",
+    "ex": "You can use links to set up relationships with other cards",
+    "select link": "Please select a link card",
+    "link add": " Add",
+    "apply": "Apply",
+    "relate": "Related",
+    "duplicate": "Duplicates"
+  },
+  "batch": {
+    "state": "Batch Changes",
+    "move": "Batch Move",
+    "status select": "Please select a status",
+    "apply": "Apply",
+    "selected": "Selected"
+  },
+  "todo": {
+    "todo": "Todo",
+    "ex": ""
+  },
+  "tip": {
+    "copy": "Copy link",
+    "owner": "Change owner",
+    "viewer": "Select viewer",
+    "state": "State",
+    "bookmark": "Add / Remove bookmark",
+    "priority": "Change priority",
+    "todo": "Add / Remove todo",
+    "lock": "Lock / Unlock",
+    "create": "Create card",
+    "state select": {
+      "ready": "Wait",
+      "progress": "Progress",
+      "stop": "Stop",
+      "cancel": "Cancel",
+      "complete": "Complete"
+    }
+  },
+  "go card": "Details ",
+  "card title edit": " Save",
+  "card title": " Card Title",
+  "no data": "No data available in table"
+}

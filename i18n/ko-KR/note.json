@@ -1,0 +1,25 @@
+{
+  "folder": {
+    "notes": "전체",
+    "default": "기본 폴더",
+    "trash": "휴지통",
+    "rename": "이름 변경",
+    "delete": "삭제"
+  },
+  "list": {
+    "add note": "노트 추가",
+    "sort": "정렬",
+    "select folder": "폴더를 선택하세요.",
+    "sort create": "최신순",
+    "sort update": "변경순",
+    "sort title": "이름순"
+  },
+  "note": {
+    "select note": "노트를 선택하세요."
+  },
+  "move": {
+    "folder move": "이동 폴더 선택",
+    "move": "이동"
+  },
+  "delete": " 삭제"
+}

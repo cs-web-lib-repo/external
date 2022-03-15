@@ -1,0 +1,63 @@
+{
+  "space": {
+    "list": "Space List",
+    "readonly": "Read only",
+    "stop": "Disabled",
+    "create": "Create a new space",
+    "remaining": "remaining",
+    "name": "Space Name",
+    "note": "Space Note",
+    "create btn": "Create",
+    "bookmark": "Book mark"
+  },
+  "join": {
+    "stop ex": "Disabled by admin",
+    "wait ex": "Wait for sign-up",
+    "reject ex": "Rejected by admin",
+    "leave ex": "Leave",
+    "remove ex": "Dismissed by admin",
+    "not_exist ex": "",
+    "cancel": "Cancel",
+    "leave": "Leave",
+    "ok": "OK"
+  },
+  "logout": " Logout",
+  "card": " Card",
+  "todo": "Todo",
+  "note": "Note",
+  "message": "Message",
+  "org": "Org",
+  "main menu tip": "Main Menu",
+  "file uploader": " File Uploader",
+  "please node": "Please select an tree node.",
+  "upload zone": "File Upload Zone",
+  "lng": "English",
+  "space setting": "Space Setting",
+  "profile setting": "Profile Setting",
+  "dz": {
+    "clear": "upload clear",
+    "dictFileTooBig": "Max filesize: 300MiB",
+    "dictCancelUpload": "Cancel",
+    "dictCancelUploadConfirmation": "Are you sure you want to cancel this upload?"
+  },
+  "account": {
+    "chat": "1 : 1 Chat",
+    "profile": "Profile Detail",
+    "profile edit": "Profile Edit",
+    "name": "Name",
+    "intro": "About me"
+  },
+  "sort": {
+    "title asc": "Title Ascending",
+    "title desc": "Title Descending",
+    "utime asc": "Ascending generation time",
+    "utime desc": "Descending generation time"
+  },
+  "common": {
+    "capture": "capture"
+  },
+  "editor": {
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}

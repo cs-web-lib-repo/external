@@ -1,0 +1,27 @@
+{
+  "folder": {
+    "notes": "All",
+    "default": "Base Folder",
+    "trash": "Trash",
+    "rename": "Rename",
+    "delete": "Delete"
+  },
+  "list": {
+    "add note": "add note",
+    "sort": "Sort",
+    "select folder": "Please select a folder",
+    "sort create": "Create",
+    "sort update": "Update",
+    "sort title": "Title"
+  },
+  "note": {
+    "select note": "Please select a note"
+  },
+  "move": {
+    "folder move": "Please select a folder",
+    "move": "Move"
+  },
+  "delete": " Delete",
+  "note list": "Note list",
+  "file list": "File list"
+}

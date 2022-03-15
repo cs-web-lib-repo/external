@@ -1,0 +1,30 @@
+{
+  "noti": "Notification",
+  "card": {
+    "card": "Card",
+    "create": "create",
+    "state": "status",
+    "priority": "priority",
+    "rename": "rename",
+    "move": "move",
+    "del": "delete",
+    "remove": "remove",
+    "recover": "recover",
+    "hidden": "hidden",
+    "unhidden": "show",
+    "per": "progress",
+    "lock": "lock",
+    "unlock": "unlock",
+    "cost add": "cost add",
+    "cost remove": "cost remove",
+    "cost modify": "cost modify",
+    "owner": "change owner",
+    "viewer": "change viewer",
+    "link add": "add link",
+    "link remove": "remove link",
+    "contents": "contents"
+  },
+  "msg": "chat",
+  "card link copy": "Card web link was copied.",
+  "note link copy": "Note web link was copied."
+}

@@ -1,0 +1,42 @@
+{
+  "todo": {
+    "my todo": "내 할일"
+  },
+  "confirm": {
+    "confirm": "컨펌",
+    "ex": "피드백 받기",
+    "confirm item": "컨펌 상세내역",
+    "confirm add": " 추가",
+    "confirm create": "확인 생성",
+    "confirm comment": "확인 코멘트",
+    "confirm decision": "컨펌 결정",
+    "remove": "삭제",
+    "lock": "잠금",
+    "unlock": "잠금 해제",
+    "cancel": "취소",
+    "lock_alert": "잠긴 컨펌 입니다.",
+    "read": "읽음",
+    "send": "보내기",
+    "creator": "생성자",
+    "title": "제목",
+    "comment": "코멘트",
+    "info": "정보",
+    "card": "카드",
+    "progress": "진행상태",
+    "decision": "결정",
+    "approval": "승인",
+    "reject": "반려",
+    "sent": "보낸 컨펌",
+    "inbox": "받은 컨펌",
+    "view card": "카드 보기"
+  },
+  "my card": "담당 카드",
+  "history": "내역",
+  "list": {
+    "select folder": ""
+  },
+  "title": "제목",
+  "todo flow": "작업 흐름",
+  "sender": "지시자",
+  "worker": "작업자"
+}

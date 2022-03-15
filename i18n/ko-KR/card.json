@@ -1,0 +1,117 @@
+{
+  "info": {
+    "info": "정보",
+    "card num": " 카드 번호:",
+    "creator": " 생성자:",
+    "created": " 생성일:",
+    "date": " 일정:",
+    "cost": " 작업 내역:",
+    "under cost": " 하위 작업:",
+    "owner": " 담당자:",
+    "worker": " 작업자:",
+    "viewer": " 관찰자:",
+    "progress": " 진행률:",
+    "move": " 이동",
+    "copy": " 복사",
+    "link": " 링크",
+    "hide": "숨기기",
+    "show": "보이기",
+    "delete": "삭제",
+    "remove": "완전 삭제",
+    "recover": "복구"
+  },
+  "create": {
+    "create": " 생성",
+    "apply": " 생성",
+    "ok": " 생성 후 닫기",
+    "card create": "하위 카드 생성",
+    "card title": "카드 제목"
+  },
+  "contents": {
+    "contents": "내용",
+    "edit": " 수정",
+    "comments": " 댓글",
+    "delete": " 삭제",
+    "reply": " 답글",
+    "cancel": " 취소",
+    "add comment": "댓글 달기",
+    "add reply": "답글 달기",
+    "add note": "노트 추가",
+    "add file": "파일 추가"
+  },
+  "card": {
+    "card": "카드 목록",
+    "filter": "필터 : ",
+    "filter auth": "권한 필터",
+    "filter state": "상태 필터",
+    "filter ready": "대기",
+    "filter progress": "진행",
+    "filter stop": " 중지",
+    "filter cancel": " 취소",
+    "filter complete": " 완료",
+    "filter file": "파일 필터",
+    "title": "제목",
+    "hidden": "숨김",
+    "deleted": "삭제",
+    "normal": "정상"
+  },
+  "file": {
+    "file": "파일 목록",
+    "filter": "필터 : ",
+    "filter filte": "파일 필터",
+    "name": "이름",
+    "byte": "Byte",
+    "time": "시간"
+  },
+  "calendar": {
+    "cal": "일정"
+  },
+  "move": {
+    "card move": "이동 카드 선택",
+    "move": "이동"
+  },
+  "auth": {
+    "select owner" : "소유자 선택",
+    "select worker": "작업자 선택",
+    "select viewer": "관찰자 선택",
+    "comment": "코멘트",
+    "apply": "적용",
+    "cancel": "취소",
+    "complete": "완료"
+  },
+  "cost": {
+    "cost time": "작업 내역 추가",
+    "cost list": "작업 내역",
+    "cost under": "하위 카드 작업 내역",
+    "comment": "코멘트",
+    "hours": "시각",
+    "minutes": "분"
+  },
+  "worker": {
+    "worker": "작업자",
+    "ex": "할일의 작업자를 선택하세요."
+  },
+  "link": {
+    "link": "링크",
+    "ex": "링크를 사용하여 다른 카드들과의 관계를 설정할 수 있습니다.",
+    "select link": "링크 대상 카드를 선택하세요",
+    "link add": " 링크 추가",
+    "apply": "적용",
+    "relate": "관련",
+    "duplicate": "중복"
+  },
+  "batch": {
+    "state": "일괄 변경",
+    "move": "일괄 이동",
+    "status select": "상태를 선택하세요.",
+    "apply": "적용"
+  },
+  "todo": {
+    "todo": "할일",
+    "ex": ""
+  },
+  "go card": "상세정보 ",
+  "card title edit": " 저장",
+  "card title": " 카드 제목",
+  "no data": "데이터가 없습니다"
+}

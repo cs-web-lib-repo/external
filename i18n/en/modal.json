@@ -1,0 +1,18 @@
+{
+  "title": {
+    "bookmark": "Bookmark",
+    "date": "Date",
+    "card create": "Create a Card",
+    "note create": "Create a Note",
+    "card rename": "Card Title Edit",
+    "note rename": "Note Title Edit"
+  },
+  "input": {
+    "card title": "Card Title",
+    "note title": "Note Title"
+  },
+  "title edit": {
+    "apply": "Edit",
+    "edit": "Apply"
+  }
+}

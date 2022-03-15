@@ -1,0 +1,55 @@
+{
+  "tree": {
+    "info mode": " Change mode or select an option.",
+    "todo mode": " Todo List.",
+    "icon set": " Icon Settings.",
+    "search": " Search.",
+    "no data": "There are no accessible cards.",
+    "drop": {
+      "create": "Create",
+      "title": "Tiltle Edit",
+      "state": {
+        "name": " State",
+        "ready": "Wait",
+        "progress": "Progress",
+        "stop": "Stop",
+        "cancel": "Cancel",
+        "complete": "Complete"
+      },
+      "priority": {
+        "name": "Priority",
+        "urgent": "Urgent",
+        "high": "High",
+        "medium": "Medium",
+        "low": "Low",
+        "lowest": "Lowest"
+      },
+      "hide": "Hide",
+      "show": "Show",
+      "bookmark": "BookMark",
+      "move": "Move",
+      "under": "Under Batch",
+      "attribute batch": "Attribute Batch",
+      "move batch": "Move Batch",
+      "delete": "Delete",
+      "remove": "Remove",
+      "recover": "Recover",
+      "lock": "Lock",
+      "unlock": "Unlock"
+    },
+    "tip": {
+      "hide": "Change view mode",
+      "bookmark": "Bookmark",
+      "sorting": "Sorting",
+      "icon setting": "Icon setting",
+      "search": "Card search",
+      "reload": "Reload"
+    }
+  },
+  "tree op": {
+    "not match": "did not match any documents."
+  },
+  "org_tree": {
+    "other users": "Other Users"
+  }
+}

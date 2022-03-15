@@ -1,0 +1,12 @@
+{
+  "member": {
+    "choose a user": "Choose a user",
+    "search": "Search",
+    "create": "Create"
+  },
+  "chat": {
+    "chat": "Chat",
+    "send": "Send",
+    "add message": "Add message"
+  }
+}
