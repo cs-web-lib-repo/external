@@ -4,5 +4,8 @@
   "todo": "Todo",
   "chat": "Chat",
   "departments": "Departments",
-  "user": "User"
+  "user": "User",
+  "dept": "Dept",
+  "manage": "Manage",
+  "info": "Info"
 }

@@ -7,6 +7,7 @@
   "chat": {
     "chat": "Chat",
     "send": "Send",
-    "add message": "Add message"
+    "add message": "Add message",
+    "select chat room": "select a chat to start messaging"
   }
 }

@@ -18,6 +18,7 @@
   "subject": "Subject",
   "select count": "Selected",
   "recipients": "Recipients",
+  "select message": "Please select a message.",
   "select recipients": "Select Recipients",
   "select forward recipients": "Select forward recipients",
   "remove": "Remove",

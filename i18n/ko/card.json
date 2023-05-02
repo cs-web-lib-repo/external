@@ -118,6 +118,7 @@
     "select owner": "소유자 선택",
     "select worker": "작업자 선택",
     "select viewer": "관찰자 선택",
+    "owner flow": "소유자 내역",
     "comment": "코멘트",
     "apply": "적용",
     "cancel": "취소",
@@ -171,7 +172,8 @@
       "stop": " 중지",
       "cancel": " 취소",
       "complete": " 완료"
-    }
+    },
+    "history": "내역"
   },
   "go card": "상세정보 ",
   "card title edit": " 저장",

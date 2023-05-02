@@ -15,7 +15,7 @@
     "sort title": "Title"
   },
   "note": {
-    "select note": "Please select a note"
+    "select note": "Please select a note."
   },
   "move": {
     "folder move": "Please select a folder",
@@ -23,5 +23,6 @@
   },
   "delete": " Delete",
   "note list": "Note list",
-  "file list": "File list"
+  "file list": "File list",
+  "note filter ph": "Note title or Note number"
 }

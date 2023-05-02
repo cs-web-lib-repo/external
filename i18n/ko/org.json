@@ -4,5 +4,8 @@
   "todo": "할일",
   "chat": "채팅",
   "departments": "부서",
-  "user": "사용자 정보"
+  "user": "사용자 정보",
+  "dept": "부서",
+  "manage": "관리",
+  "info": "정보"
 }

@@ -1,13 +1,13 @@
 {
-  "room":{
-    "add": " 추가"
-  },
   "member": {
     "choose a user": "사용자 선택",
     "search": "검색",
     "create": "생성"
   },
   "chat": {
-    "send": "보내기"
+    "chat": "채팅",
+    "send": "보내기",
+    "add message": "메시지",
+    "select chat room": "채팅방을 선택하세요."
   }
 }

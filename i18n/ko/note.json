@@ -23,5 +23,6 @@
   },
   "delete": " 삭제",
   "note list": "노트 목록",
-  "file list": "파일 목록"
+  "file list": "파일 목록",
+  "note filter ph": "노트 제목 또는 노트 번호"
 }

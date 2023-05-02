@@ -1,0 +1,71 @@
+{
+  "today": "Today",
+  "day": "Day",
+  "week": "Week",
+  "month": "Month",
+  "year": "Year",
+  "list": "List",
+  "create": "Create",
+  "trash": "Trash",
+  "own list": "My calendars",
+  "use list": "Share calendars",
+  "view list ": "View calendars",
+  "cal create": {
+    "cal create": "Create Calendar",
+    "title": "Title",
+    "create": "Create"
+  },
+  "cal set": {
+    "cal set": "Calendar Setting",
+    "setting": "Setting",
+    "lock": "Lock",
+    "unlock": "Unlock",
+    "deadline": "Deadline",
+    "color": "Color",
+    "leave": "Leave",
+    "remove": "Remove",
+    "recover": "Recover",
+    "set deadline": "Set Deadline",
+    "apply": "Apply",
+    "title": "Title",
+    "comment": "Comment",
+    "public": "Public",
+    "share": "Share",
+    "own": "Owner",
+    "use": "User",
+    "view": "Viewer",
+    "manage account": "Manage shared users"
+  },
+  "cal order": "Calendar Order",
+  "cal trash": "Calendar Trash",
+  "event create": {
+    "event create": "Create event",
+    "title": "Title",
+    "comment": "Comment",
+    "create": "Create",
+    "file": "File"
+  },
+  "event edit": {
+    "event edit": "Edit event",
+    "title": "Title",
+    "comment": "Comment",
+    "apply": "Apply",
+    "file": "File"
+  },
+  "event trash": {
+    "event trash": "Event Trash",
+    "trash": "Trash",
+    "remove": "Remove",
+    "recover": "Recover",
+    "no events": "There are no deleted events",
+    "clear": "Empty trash",
+    "del 30":"Events in Trash are deleted after 30 days"
+  },
+  "setting": {
+    "general": "General",
+    "trash": "Trash",
+    "cal trash": "Calendar Trash",
+    "event trash": "Event Trash"
+  },
+  "square icon": "<i class='fas fa-square fa-lg' style='color:#{{color}}'></i> {{name}}"
+}

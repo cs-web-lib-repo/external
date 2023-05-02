@@ -118,6 +118,7 @@
     "select owner": "Select Owner",
     "select worker": "Select Worker",
     "select viewer": "Select Viewer",
+    "owner flow": "Owner flow",
     "comment": "Comment",
     "apply": "Apply",
     "cancel": "Cancel",
@@ -171,7 +172,8 @@
       "stop": "Stop",
       "cancel": "Cancel",
       "complete": "Complete"
-    }
+    },
+    "history": "History"
   },
   "go card": "Details ",
   "card title edit": " Save",

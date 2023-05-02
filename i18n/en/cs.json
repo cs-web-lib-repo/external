@@ -21,16 +21,20 @@
     "leave": "Leave",
     "ok": "OK"
   },
+  "exit": "Exit",
   "logout": " Logout",
-  "card": " Card",
+  "card": "Card",
   "todo": "Todo",
+  "calendar": "Calendar",
   "note": "Note",
+  "confirm": "Confirm",
   "message": "Message",
   "org": "Org",
   "main menu tip": "Main Menu",
   "file uploader": " File Uploader",
   "please node": "Please select an tree node.",
   "upload zone": "File Upload Zone",
+  "drop upload": "Drop files here",
   "lng": "English",
   "space setting": "Space Setting",
   "profile setting": "Profile Setting",
@@ -58,6 +62,7 @@
   },
   "editor": {
     "save": "Save",
+    "apply": "Apply",
     "cancel": "Cancel"
   }
 }
