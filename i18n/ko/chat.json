@@ -9,5 +9,7 @@
     "send": "보내기",
     "add message": "메시지",
     "select chat room": "채팅방을 선택하세요."
-  }
+  },
+  "join": "초대",
+  "leave": "나가기"
 }

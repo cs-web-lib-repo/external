@@ -21,8 +21,5 @@
     "folder move": "이동 폴더 선택",
     "move": "이동"
   },
-  "delete": " 삭제",
-  "note list": "노트 목록",
-  "file list": "파일 목록",
-  "note filter ph": "노트 제목 또는 노트 번호"
+  "delete": " 삭제"
 }

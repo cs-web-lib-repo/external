@@ -9,5 +9,7 @@
     "send": "Send",
     "add message": "Add message",
     "select chat room": "select a chat to start messaging"
-  }
+  },
+  "join": "Join",
+  "leave": "Leave"
 }
