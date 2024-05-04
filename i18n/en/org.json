@@ -2,10 +2,12 @@
   "org": "Organization",
   "card": "Card",
   "todo": "Todo",
-  "chat": "Chat",
   "departments": "Departments",
   "user": "User",
   "dept": "Dept",
   "manage": "Manage",
-  "info": "Info"
+  "info": "Info",
+  "chat": "Chat",
+  "confirm": "Confirm",
+  "message": "Message"
 }

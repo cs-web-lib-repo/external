@@ -2,10 +2,12 @@
   "org": "조직",
   "card": "카드",
   "todo": "할일",
-  "chat": "채팅",
   "departments": "부서",
   "user": "사용자 정보",
   "dept": "부서",
   "manage": "관리",
-  "info": "정보"
+  "info": "정보",
+  "chat": "채팅",
+  "confirm": "컨펌",
+  "message": "쪽지"
 }

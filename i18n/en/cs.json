@@ -8,7 +8,9 @@
     "name": "Space Name",
     "note": "Space Note",
     "create btn": "Create",
-    "bookmark": "Book mark"
+    "bookmark": "Book mark",
+    "upgrade": "Upgrade",
+    "upgrade_ex": "Upgrade"
   },
   "join": {
     "stop ex": "Disabled by admin",
@@ -37,6 +39,7 @@
   "drop upload": "Drop files here",
   "lng": "English",
   "space setting": "Space Setting",
+  "upgrade": "Upgrade",
   "profile setting": "Profile Setting",
   "dz": {
     "clear": "upload clear",
@@ -47,6 +50,8 @@
   "account": {
     "chat": "1 : 1 Chat",
     "profile": "Profile Detail",
+    "confirm": "Confirm",
+    "message": "Message",
     "profile edit": "Profile Edit",
     "name": "Name",
     "intro": "About me"
@@ -64,5 +69,9 @@
     "save": "Save",
     "apply": "Apply",
     "cancel": "Cancel"
+  },
+  "sumo": {
+    "all selected" : " all selected",
+    "selected": " selected"
   }
 }

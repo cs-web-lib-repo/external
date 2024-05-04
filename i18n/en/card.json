@@ -51,6 +51,8 @@
   "card": {
     "card": "Card list",
     "filter": "Filter : ",
+    "under": "Include child nodes",
+    "hidden": "Hidden",
     "auth filter": {
       "auth": "Auth filter",
       "owner": "<i class='fas fa-user text-danger fa-fw'></i>Owner",
@@ -72,6 +74,7 @@
     "deleted": "deleted",
     "normal": "normal",
     "list filter": {
+      "list filter": "List filter",
       "owner": "<i class='fas fa-user text-danger fa-fw'></i>Owner",
       "status": "<i class='far fa-play-circle fa-fw'></i>Status",
       "state": "<i class='fas fa-eye fa-fw'></i>State",
@@ -81,6 +84,10 @@
       "schedule": "<i class='far fa-clock fa-fw'></i>Schedule",
       "cost": "<i class='fas fa-hourglass fa-fw'></i>Cost",
       "sub cost": "<i class='fas fa-hourglass-end fa-fw'></i>Sub Cost",
+      "income": "<i class='fas fa-plus fa-fw'></i>Income",
+      "income under": "<i class='fas fa-plus fa-fw'></i>U Sub Income",
+      "expenditure": "<i class='fas fa-minus fa-fw'></i>Expenditure",
+      "expenditure under": "<i class='fas fa-minus fa-fw'></i>U Sub Expenditure",
       "file size": "<i class='fas fa-file fa-fw'></i>File Size",
       "sub file": "<i class='fas fa-file-download fa-fw'></i>Sub File Size"
     }
@@ -94,13 +101,20 @@
   },
   "file": {
     "file": "File list",
+    "under": "Include child nodes",
+    "is_owner": "Owned files",
     "filter": "Filter : ",
     "filter filte": "File filter",
+    "card": "Card",
+    "timeline": "Timeline",
     "name": "Name",
     "byte": "Byte",
-    "time": "Time"
+    "time": "Time",
+    "type pos": "position"
   },
   "calendar": {
+    "under": "Include child nodes",
+    "hidden": "Hidden",
     "cal": "Calendar",
     "today": "Today",
     "jump": "Card"
@@ -111,7 +125,7 @@
     "more": "More"
   },
   "move": {
-    "card move": "Please select a card",
+    "card move": "Select a location to move to",
     "move": "Move"
   },
   "auth": {
@@ -125,12 +139,16 @@
     "complete": "Complete"
   },
   "cost": {
+    "cost": "Cost",
     "cost time": "Append Cost List",
     "cost list": "Cost List",
     "cost under": "List of Card Sub-Cost",
+    "cost insert": "Cost List",
     "comment": "comment",
-    "hours": "hours",
-    "minutes": "minutes"
+    "hours": "Hours",
+    "minutes": "Min",
+    "income": "Income",
+    "expenditure": "Expenditure"
   },
   "worker": {
     "worker": "Worker",
@@ -146,8 +164,9 @@
     "duplicate": "Duplicates"
   },
   "batch": {
+    "select_card_to_move": "select card to move",
     "state": "Batch Changes",
-    "move": "Batch Move",
+    "move": "Next",
     "status select": "Please select a status",
     "apply": "Apply",
     "selected": "Selected"

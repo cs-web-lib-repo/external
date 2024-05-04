@@ -12,7 +12,10 @@
     "approval rejected": " Approval / Rejected",
     "log": " Log",
     "user settings": " User Settings",
-    "org settings": " Organization Settings"
+    "org settings": " Organization Settings",
+    "storage": " File Storage",
+    "space_storage": " Space",
+    "account_storage": " Account"
   },
   "dashboard": {
     "space name": "Space Name",
@@ -46,7 +49,106 @@
     "card deleted": "Deleted",
     "user count": "User Count : ",
     "card file": "Card file",
-    "note file": "Cote file"
+    "note file": "Cote file",
+    "list_status_account": {
+      "_name": "Account status",
+      "all_count": "Account",
+      "normal_count": "Normal",
+      "stop_count": "Stop",
+      "leave_user_count": "Leave user",
+      "leave_admin_count": "Leave admin"
+    },
+    "list_status_card": {
+      "_name": "Card status",
+      "all_count": "Card",
+      "todo_count": "Todo",
+      "lock_count": "Lock",
+      "ready_count": "Ready",
+      "progress_count": "Progress",
+      "stop_count": "Stop",
+      "cancel_count": "Cancel",
+      "complete_count": "Complete",
+      "normal_count": "Normal",
+      "hidden_count": "Hidden",
+      "delete_count": "Delete",
+      "link_count": "Link",
+      "note_count": "Card note",
+      "file_count": "Card file",
+      "file_size": "Card file size",
+      "reply_count": "Reply",
+      "reply_file_count": "Reply file",
+      "reply_file_size": "Reply file size",
+      "cost_time_sum": "Cost time",
+      "cost_income_sum": "Cost income",
+      "cost_expenditure_sum": "Cost expenditure"
+    },
+    "list_status_note": {
+      "_name": "Note status",
+      "normal_count": "Normal",
+      "normal_file_count": "Normal file",
+      "normal_file_size": "Normal file size",
+      "remove_count": "Remove",
+      "remove_file_count": "Remove file",
+      "remove_file_size": "Remove file size"
+    },
+    "list_status_file": {
+      "_name": "File status",
+      "all_count": "Files",
+      "all_size": "Files size",
+      "source_count": "Source",
+      "source_size": "Source size",
+      "remove_db_count": "Remove",
+      "remove_db_size": "Remove file size",
+      "remove_wait_count": "Remove wait",
+      "remove_wait_size": "Remvoe wait size",
+      "prepare_count": "Uploading",
+      "prepare_size": "Uploading file size"
+    },
+    "list_status_chat": {
+      "_name": "Chat status",
+      "room_count": "Room",
+      "msg_count": "Message",
+      "one_count": "1:1 Room",
+      "one_msg_count": "1:1 Message",
+      "one_file_count": "1:1 File",
+      "one_file_size": "1:1 File size",
+      "group_count": "Group Room",
+      "group_msg_count": "Group message",
+      "group_file_count": "Group file",
+      "group_file_size": "Group file size"
+    },
+    "list_status_message": {
+      "_name": "Message status",
+      "all_count": "Message",
+      "ready_count": "Ready",
+      "ready_file_count": "Ready file",
+      "ready_file_size": "Ready file size",
+      "send_count": "Send",
+      "send_file_count": "Send file",
+      "send_file_size": "Send file size",
+      "recv_count": "Recv",
+      "recv_file_count": "Recv file",
+      "recv_file_size": "Recv file size",
+      "trash_count": "Trash",
+      "trash_file_count": "Trash file",
+      "trash_file_size": "Trash file size",
+      "remove_count": "Remove",
+      "remove_file_count": "Remove file",
+      "remove_file_size": "Remove file size"
+    },
+    "list_status_storage": {
+      "_name": "Storage status",
+      "storage_limit_size": "Storage size",
+      "storage_use_size": "Storage used size",
+      "card_file_count": "Card file",
+      "card_file_size": "Card file size",
+      "note_file_count": "Note file",
+      "note_file_size": "Note file size",
+      "message_file_count": "Message file",
+      "message_file_size": "Message file size",
+      "chat_file_count": "Chat file",
+      "chat_file_size": "Chat file size"
+    }
   },
   "pay": {
     "payment": "Payment",
@@ -99,25 +201,59 @@
     "leave": "Leave",
     "remove": "Remove"
   },
-  "user setting": {
+  "user_setting": {
     "admin": "Admin",
     "user": "User",
+    "storage_usage": "Storage usage",
     "state": "State",
     "normal": "Normal",
     "stop": "Stop",
     "leave": "Leave",
     "remove": "Remove"
   },
-  "org setting": {
+  "org_setting": {
     "create": " Create",
     "move": " Move",
     "remove": " Remove",
+    "rename": " Rename",
     "modify": " Modify",
-    "add": " Add",
     "manager": " Manager",
     "org create": "Organization create",
     "org modify": "Change organization name",
-    "org title": "Organization title"
+    "org title": "Organization title",
+    "select organization or user": "select organization or user",
+    "set org admin": "Set administrator",
+    "del org admin": "Cancel administrator",
+    "select org": "select organization",
+    "select users": "Select users"
+  },
+  "storage": {
+    "section": {
+      "section": "Section",
+      "count": "File count",
+      "size": "Storage size",
+      "card": "Card",
+      "note": "Note",
+      "calendar": "Calendar",
+      "chat": "Chat",
+      "confirm": "Confirm",
+      "message": "Message",
+      "drive": "Drive",
+      "total": "Total"
+    },
+    "account": {
+      "account": "Account",
+      "card": "Card",
+      "note": "Note",
+      "calendar": "Calendar",
+      "chat": "Chat",
+      "confirm": "Confirm",
+      "message": "Message",
+      "drive": "Drive",
+      "sum": "Sum",
+      "count": "Count",
+      "size": "Size"
+    }
   },
   "space setting": "Space Setting",
   "no data": "No data available in table"

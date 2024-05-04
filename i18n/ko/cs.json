@@ -8,7 +8,9 @@
     "name": "스페이스 이름",
     "note": "스페이스 설명",
     "create btn": "생성",
-    "bookmark": "즐겨찾기"
+    "bookmark": "즐겨찾기",
+    "upgrade": "지금 업그레이드",
+    "upgrade_ex": "지금 업그레이드"
   },
   "join": {
     "stop ex": "관리자에 의해 사용 중지 되었습니다.",
@@ -37,6 +39,7 @@
   "drop upload": "여기에 파일 놓기",
   "lng": "한국어",
   "space setting": "스페이스 설정",
+  "upgrade": "업그레이드",
   "profile setting": "프로필 설정",
   "dz": {
     "clear": "업로드 정리",
@@ -47,6 +50,8 @@
   "account": {
     "chat": "1 : 1 채팅",
     "profile": "사용자 정보",
+    "confirm": "컨펌",
+    "message": "쪽지",
     "profile edit": "정보 수정",
     "name": "이름",
     "intro": "소개"
@@ -64,5 +69,9 @@
     "save": "저장",
     "apply": "적용",
     "cancel": "취소"
+  },
+  "sumo": {
+    "all selected" : "개 전체 선택됨",
+    "selected": "개 선택됨"
   }
 }

@@ -8,8 +8,10 @@
   "create": "Create",
   "trash": "Trash",
   "own list": "My calendars",
-  "use list": "Share calendars",
-  "view list ": "View calendars",
+  "share list": "Share",
+  "use list": "Use",
+  "view list": "View",
+  "trash": "Trash",
   "cal create": {
     "cal create": "Create Calendar",
     "title": "Title",
@@ -32,7 +34,7 @@
     "public": "Public",
     "share": "Share",
     "own": "Owner",
-    "use": "User",
+    "use": "User (Edit Schedule)",
     "view": "Viewer",
     "manage account": "Manage shared users"
   },

@@ -1,0 +1,17 @@
+{
+  "nickname": "닉네임",
+  "nickname_guide": "닉네임 가이드",
+  "intro": "소개",
+  "intro_guide": "소개 가이드",
+  "send": "요청",
+  "resend": "재요청",
+  "cancel": "가입 요청 취소",
+  "join_type": {
+    "stop": "space 관리자에 의해 정지 되었습니다.",
+    "wait": "space 관리자에 의한 가입 승인이 필요합니다.",
+    "reject": "space 관리자에 의해 요청이 반려되었습니다.",
+    "leave": "space 관리자에 의해 탈퇴되었습니다.",
+    "remove": "space 관리자에 의해 탈퇴되었습니다.",
+    "not_exist": "관리자에게 사용 요청 하세요."
+  }
+}

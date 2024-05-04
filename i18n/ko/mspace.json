@@ -12,9 +12,12 @@
     "approval rejected": " 승인 / 반려",
     "log": " 내역",
     "user settings": " 사용자 관리",
-    "org settings": " 조직 관리"
+    "org settings": " 조직 관리",
+    "storage": " 파일 저장소",
+    "space_storage": " 스페이스",
+    "account_storage": " 사용자"
   },
-  "dashboard":{
+  "dashboard": {
     "space name": "스페이스 이름",
     "space intro": "스페이스 소개",
     "apply": "적용",
@@ -46,7 +49,106 @@
     "card deleted": "삭제된 카드",
     "user count": "사용자 수",
     "card file": "카드 파일",
-    "note file": "노트 파일"
+    "note file": "노트 파일",
+    "list_status_account": {
+      "_name": "사용자 정보",
+      "all_count": "전체",
+      "normal_count": "정상",
+      "stop_count": "정지",
+      "leave_user_count": "탈퇴 사용자",
+      "leave_admin_count": "탈퇴 관리자"
+    },
+    "list_status_card": {
+      "_name": "카드 정보",
+      "all_count": "전체",
+      "todo_count": "할일",
+      "lock_count": "잠긴",
+      "ready_count": "대기",
+      "progress_count": "진행",
+      "stop_count": "정지",
+      "cancel_count": "취소",
+      "complete_count": "완료",
+      "normal_count": "정상",
+      "hidden_count": "숨김",
+      "delete_count": "삭제",
+      "link_count": "링크",
+      "note_count": "카드 노트",
+      "file_count": "카드 파일",
+      "file_size": "카드 파일 크기",
+      "reply_count": "댓글",
+      "reply_file_count": "댓글 파일",
+      "reply_file_size": "댓글 파일 크기",
+      "cost_time_sum": "작업 시간",
+      "cost_income_sum": "수익",
+      "cost_expenditure_sum": "지출"
+    },
+    "list_status_note": {
+      "_name": "노트 정보",
+      "normal_count": "노트",
+      "normal_file_count": "파일",
+      "normal_file_size": "파일 크기",
+      "remove_count": "삭제 노트",
+      "remove_file_count": "삭제 파일",
+      "remove_file_size": "삭제 파일 크기"
+    },
+    "list_status_file": {
+      "_name": "파일 정보",
+      "all_count": "전체 파일",
+      "all_size": "전체 파일 크기",
+      "source_count": "원본 파일",
+      "source_size": "원본 파일 크기",
+      "remove_db_count": "삭제 파일",
+      "remove_db_size": "삭제 파일 크기",
+      "remove_wait_count": "삭제 대기 파일",
+      "remove_wait_size": "삭제 대기 파일 크기",
+      "prepare_count": "파일 업로드 중",
+      "prepare_size": "파일 업로드 중 크기"
+    },
+    "list_status_chat": {
+      "_name": "채팅 정보",
+      "room_count": "채팅룸",
+      "msg_count": "메시지",
+      "one_count": "1:1 채팅룸",
+      "one_msg_count": "1:1 메시지",
+      "one_file_count": "1:1 파일",
+      "one_file_size": "1:1 파일 크기",
+      "group_count": "그룹 채팅",
+      "group_msg_count": "그룹 채팅 메시지",
+      "group_file_count": "그룹 채팅 파일",
+      "group_file_size": "그룹 채팅 파일 크기"
+    },
+    "list_status_message": {
+      "_name": "쪽지 정보",
+      "all_count": "쪽지",
+      "ready_count": "대기",
+      "ready_file_count": "대기 파일",
+      "ready_file_size": "대기 파일 크기",
+      "send_count": "보냄",
+      "send_file_count": "보낸 파일",
+      "send_file_size": "보낸 파일 크기",
+      "recv_count": "받음",
+      "recv_file_count": "받은 파일",
+      "recv_file_size": "받은 파일 크기",
+      "trash_count": "휴지통",
+      "trash_file_count": "휴지통 파일",
+      "trash_file_size": "휴지통 파일 크기",
+      "remove_count": "삭제",
+      "remove_file_count": "삭제 파일",
+      "remove_file_size": "삭제 파일 크기"
+    },
+    "list_status_storage": {
+      "_name": "저장소 정보",
+      "storage_limit_size": "저장소 크기",
+      "storage_use_size": "사용중 크기",
+      "card_file_count": "카드 파일",
+      "card_file_size": "카드 파일 크기",
+      "note_file_count": "노트 파일",
+      "note_file_size": "노트 파일 크기",
+      "message_file_count": "메세지 파일",
+      "message_file_size": "메세지 파일 크기",
+      "chat_file_count": "채팅 파일",
+      "chat_file_size": "채팅 파일 크기"
+    }
   },
   "pay": {
     "payment": "결제 하기",
@@ -99,26 +201,60 @@
     "leave": "탈퇴",
     "remove": "탈퇴"
   },
-  "user setting": {
+  "user_setting": {
     "admin": "관리자",
     "user": "사용자",
+    "storage_usage": "저장소 사용량",
     "state": "상태",
     "normal": "정상",
     "stop": "중지",
     "leave": "탈퇴",
     "remove": "강퇴"
   },
-  "org setting": {
+  "org_setting": {
     "create": " 생성",
     "move": " 이동",
     "remove": " 삭제",
-    "modify": " 변경",
-    "add": " 추가",
+    "rename": " 수정",
+    "modify": " 사용자 변경",
     "manager": " 관리",
     "org create": "부서 생성",
     "org modify": "부서 이름 변경",
-    "org title": "부서 이름"
+    "org title": "부서 이름",
+    "select organization or user": "부서 또는 사용자를 선택 하세요",
+    "set org admin": "관리자 지정",
+    "del org admin": "관리자 해제",
+    "select org": "부서 선택",
+    "select users": "사용자 선택"
+  },
+  "storage": {
+    "section": {
+      "section": "구분",
+      "count": "파일 수",
+      "size": "저장소 용량",
+      "card": "카드",
+      "note": "노트",
+      "calendar": "캘린더",
+      "chat": "채팅",
+      "confirm": "컨펌",
+      "message": "쪽지",
+      "drive": "드라이브",
+      "total": "합계"
+    },
+    "account": {
+      "account": "사용자",
+      "card": "카드",
+      "note": "노트",
+      "calendar": "캘린더",
+      "chat": "채팅",
+      "confirm": "컨펌",
+      "message": "메세지",
+      "drive": "드라이브",
+      "sum": "합계",
+      "count": "수",
+      "size": "용량"
+    }
   },
   "space setting": "스페이스 설정",
-  "no data": "데이터가 없습니다"
+  "no_data": "데이터가 없습니다"
 }

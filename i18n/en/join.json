@@ -1,0 +1,17 @@
+{
+  "nickname": "Nickname",
+  "nickname_guide": "Nickname guide",
+  "intro": "Intro",
+  "intro_guide": "Intro guide",
+  "send": "Send",
+  "resend": "Resend",
+  "cancel": "Cancel",
+  "join_type": {
+    "stop": "Disabled by space administrator.",
+    "wait": "Subscription approval is required by the administrator",
+    "reject": "The administrator has rejected your request.",
+    "leave": "You have been forced to leave.",
+    "remove": "You have been forced to remove.",
+    "not_exist": ""
+  }
+}

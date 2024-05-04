@@ -25,6 +25,7 @@
     "contents": "contents"
   },
   "msg": "chat",
-  "card link copy": "Card web link was copied.",
-  "note link copy": "Note web link was copied."
+  "card_link_copy": "Card web link was copied.",
+  "note_link_copy": "Note web link was copied.",
+  "invite_link_copy": "Invite web link was copied."
 }

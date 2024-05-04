@@ -25,6 +25,7 @@
     "contents": "contents"
   },
   "msg": "채팅",
-  "card link copy": "카드의 웹 링크를 복사하였습니다.",
-  "note link copy": "노트의 웹 링크를 복사하였습니다."
+  "card_link_copy": "카드의 웹 링크를 복사하였습니다.",
+  "note_link_copy": "노트의 웹 링크를 복사하였습니다.",
+  "invite_link_copy": "초대 웹 링크를 복사하였습니다."
 }
